@@ -1,0 +1,168 @@
+{
+  ".pdf": {
+    "Windows": "Adobe Acrobat, Nitro Pro, LibreOffice",
+    "Mac": "Adobe Acrobat, LibreOffice",
+    "Linux": "LibreOffice"
+  },
+  ".tex": {
+    "Windows": "WinEdt, TeXworks",
+    "Mac": "TeXworks",
+    "Linux": "TeXworks"
+  },
+  ".doc": {
+    "Windows": "Microsoft Word, LibreOffice, Apache OpenOffice",
+    "Mac": "Microsoft Word, LibreOffice, Apache OpenOffice",
+    "Linux": "LibreOffice, Apache OpenOffice"
+  },
+  ".docx": {
+    "Windows": "Microsoft Word, LibreOffice, Apache OpenOffice",
+    "Mac": "Microsoft Word, LibreOffice, Apache OpenOffice",
+    "Linux": "LibreOffice, Apache OpenOffice"
+  },
+  ".txt": {
+    "Windows": "Microsoft Notepad, Microsoft Word, Notepad++",
+    "Mac": "Microsoft Word"
+  },
+  ".avi": {
+    "Windows": "Microsoft Windows Media Player, VLC media player",
+    "Mac": "VLC media player, Apple QuickTime Player",
+    "Linux": "VLC media player"
+  },
+  ".wmv": {
+    "Windows": "Microsoft Windows Media Player, VLC media player",
+    "Mac": "VLC media player, Apple QuickTime Player",
+    "Linux": "VLC media player"
+  },
+  ".mp4": {
+    "Windows": "Microsoft Windows Media Player, VLC media player",
+    "Mac": "VLC media player, Apple QuickTime Player",
+    "Linux": "VLC media player"
+  },
+  ".ico": {
+    "Wndows": "Microsoft Paint, Microsoft Paint 3D, Microsoft Windows Photos",
+    "Mac": "Apple Preview",
+    "Linux": "Gimp"
+  },
+  ".dll": {
+    "Windows": "Microsoft Visual Studio"
+  },
+  ".ini": {
+    "Windows": "Microsoft Notepad, Microsoft Windows"
+  },
+  ".xlsx": {
+    "Windows": "Microsoft Excel, Apache OpenOffice, LibreOffice",
+    "Mac": "Microsoft Excel, Apache OpenOffice, LibreOffice",
+    "Linux": "Apache OpenOffice, LibreOffice"
+  },
+  ".c": {
+    "Windows": "Microsoft Visual Studio, Microsoft Visual Studio Code, Eclipse",
+    "Mac": "Eclipse",
+    "Linux": "Eclipse"
+  },
+  ".class": {
+    "Windows": "Eclipse",
+    "Mac": "Eclipse",
+    "Linux": "Eclipse"
+  },
+  ".css": {
+    "Windows": "Microsoft Visual Studio, Microsoft Visual Studio Code, (your web browser)",
+    "Mac": "(your web browser)",
+    "Linux": "(your web browser)"
+  },
+  ".cpp": {
+    "Windows": "Microsoft Visual Studio, Microsoft Visual Studio Code, Eclipse",
+    "Mac": "Eclipse",
+    "Linux": "Eclipse"
+  },
+  ".h": {
+    "Windows": "Microsoft Visual Studio, Eclipse",
+    "Mac": "Eclipse",
+    "Linux": "Eclipse"
+  },
+  ".html": {
+    "Windows": "Microsoft Visual Studio, Microsoft Visual Studio Code, (your web browser)",
+    "Mac": "(your web browser)",
+    "Linux": "(your web browser)"
+  },
+  ".java": {
+    "Windows": "Microsoft Visual Studio, Microsoft Visual Studio Code, Eclipse, NetBeans",
+    "Mac": "Eclipse, NetBeans",
+    "Linux": "Eclipse, NetBeans"
+  },
+  ".js": {
+    "Windows": "Microsoft Visual Studio, Microsoft Visual Studio Code",
+    "Mac": "Microsoft Visual Studio Code"
+  },
+  ".php": {
+    "Windows": "Eclipse, Notepad++",
+    "Mac": "Sublime"
+  },
+  ".py": {
+    "Windows": "Eclipse, Sublime",
+    "Mac": "Eclipse, Sublime",
+    "Linux": "Eclipse, Sublime"
+  },
+  ".pl": {
+    "Windows": "Perl",
+    "Mac": "Perl",
+    "Linux": "Perl"
+  },
+  ".sh": {
+    "Windows": "gVim",
+    "Mac": "macVim",
+    "Linux": "Vims"
+  },
+  ".swift": {
+    "Mac": "Apple Xcode"
+  },
+  ".sln": {
+    "Windows": "Microsoft Visual Studio"
+  },
+  ".rar": {
+    "Windows": "WinRar, 7-Zip",
+    "Mac": "Corel WinZip",
+    "Linux": "PeaZip"
+  },
+  ".zip": {
+    "Windows": "WinRar, 7-Zip",
+    "Mac": "Corel WinZip",
+    "Linux": "PeaZip"
+  },
+  ".exe": {
+    "Windows": "Windows, 7-Zip"
+  },
+  ".jar": {
+    "Windows": "WinRar, 7-Zip",
+    "Mac": "Corel WinZip",
+    "Linux": "(your web browser)"
+  },
+  ".dwg": {
+    "Windows": "Autodesk AutoCAD",
+    "Mac": "Autodesk AutoCAD"
+  },
+  ".jpg": {
+    "Windows": "Microsoft Windows Photos, Microsoft Paint, Adobe Photoshop, (your web browser)",
+    "Mac": "Adobe Photoshop, Safari, (your web browser)",
+    "Linux": "GIMP, (your web browser)"
+  },
+  ".gif": {
+    "Windows": "Microsoft Windows Photos, Adobe Photoshop, (your web browser)",
+    "Mac": "Safari, (your web browser)",
+    "Linux": "GIMP, (your web browser)"
+  },
+  ".png": {
+    "Windows": "Microsoft Windows Photos, Microsoft Paint, Adobe Photoshop, (your web browser)",
+    "Mac": "Adobe Photoshop, Safari, (your web browser)",
+    "Linux": "GIMP, (your web browser)"
+  },
+  ".csv": {
+    "Windows": "Microsoft Excel, LibreOffice, Apache OpenOffice",
+    "Mac": "Microsoft Excel, LibreOffice, Apache OpenOffice",
+    "Linux": "LibreOffice, Apache OpenOffice"
+  },
+  ".pptx": {
+    "Windows": "Microsoft PowerPoint, LibreOffice, Apache OpenOffice",
+    "Mac": "Microsoft PowerPoint, LibreOffice, Apache OpenOffice",
+    "Linux": "LibreOffice, Apache OpenOffice"
+  }
+}
